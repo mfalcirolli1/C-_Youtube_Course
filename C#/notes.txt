@@ -1,0 +1,2 @@
+Executar o código compilado no CMD = aula01
+Executar o código compilado no VSC = .\aula01
