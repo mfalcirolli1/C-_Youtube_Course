@@ -1,3 +1,5 @@
+// Formatação de saída do console
+
 using System;
 
 class Aula06{

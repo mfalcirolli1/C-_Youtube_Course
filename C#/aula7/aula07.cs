@@ -1,3 +1,5 @@
+// Constantes
+
 using System;
 
 class Aula07{
